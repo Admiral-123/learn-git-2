@@ -1,4 +1,4 @@
-# learn-git-2
+# learning about git
 
 these are some codes
 
